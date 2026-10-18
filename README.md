@@ -268,6 +268,7 @@ When using cloud-based AI services, the data you input is often collected and st
 - [Tinfoil](https://tinfoil.sh/) - Verifiably private AI Chat and OpenAI-compatible inference in the cloud. Uses NVIDIA confidential computing and open source code pinned to a transparency log for end-to-end verifiability.
 - [Open WebUI](https://openwebui.com) - Self-hosted web interface for Ollama and other local models that gives you a private ChatGPT-style chat. BSD-3 licensed.
 - [LibreChat](https://librechat.ai) - Self-hosted chat interface that connects many AI models behind one private UI you control. Open source, MIT licensed.
+- [Clotr](https://clotr.app) - Browser extension and Windows app that warns you before a password, key or personal detail reaches ChatGPT, Claude, Gemini or 16 other AI chats, and checks it entirely on your device with no account or server. AGPL-3.0 licensed.
 
 #### AI Coding
 
